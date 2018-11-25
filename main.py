@@ -1,6 +1,8 @@
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import sent_tokenize, word_tokenize
+
+# When running the first time, you'll need to download these libraries
 #nltk.download('stopwords')
 #nltk.download('punkt')
 
